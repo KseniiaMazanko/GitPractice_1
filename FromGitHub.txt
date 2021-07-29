@@ -7,3 +7,5 @@ This is a different update to check
 this is more text I am adding from GitHub.com
 
 This is cool commit from local
+
+This is update that I'm making
