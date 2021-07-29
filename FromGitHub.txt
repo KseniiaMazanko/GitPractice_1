@@ -1,10 +1,6 @@
 Added directly from GitHub.com to simulate Remote Repo has a comite that we do not have locally
 
-This is more stuff I added
-
-This is a different update to check
-
-Update 123
+ Updating the file remotely
 
 this is more text I am adding from GitHub.com
 
