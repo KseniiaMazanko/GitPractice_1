@@ -1,6 +1,6 @@
 Added directly from GitHub.com to simulate Remote Repo has a comite that we do not have locally
 
-//updating the file locally
+//updating THE SAME LINE!!!
 
 this is more text I am adding from GitHub.com
 
@@ -8,4 +8,4 @@ This is cool commit from local
 
 This is update that I'm making
 
-
+//updating the file locally
