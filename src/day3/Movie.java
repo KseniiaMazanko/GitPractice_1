@@ -3,5 +3,5 @@ package day3;
 public class Movie {
 
 
-    //fgdkfmgdkfmgdfk
+    //living room movie is on for 20 minutes
 }
