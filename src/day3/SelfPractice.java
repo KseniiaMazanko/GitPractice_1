@@ -6,6 +6,9 @@ public class SelfPractice {
 
         //making a few changes
 
+        System.out.println("HEAD was moved to a new branch");
+        //observing the HEAD
+
 
 
     }
