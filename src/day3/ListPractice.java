@@ -11,6 +11,7 @@ public class ListPractice {
         System.out.println("Making a new class");
 
         ArrayList<String> list = new ArrayList<>(Arrays.asList("Hello", "Just checking"));
+        System.out.println(list);
 
     }
 
