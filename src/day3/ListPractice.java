@@ -12,6 +12,8 @@ public class ListPractice {
 
         ArrayList<String> list = new ArrayList<>(Arrays.asList("Hello", "Just checking"));
         System.out.println(list);
+        list.addAll(Arrays.asList("the code"));
+        System.out.println(list);
 
     }
 
