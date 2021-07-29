@@ -9,6 +9,8 @@ public class SelfPractice {
         System.out.println("HEAD was moved to a new branch");
         //observing the HEAD
 
+        int [] numbers = new int[5];
+
 
 
     }
