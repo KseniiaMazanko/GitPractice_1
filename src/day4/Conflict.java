@@ -4,8 +4,7 @@ public class Conflict {
 
 //This is a collection content
 
+    //this is my way to do things
 
-    //This is the change collection2 branch does not know about
-
-
+    //custom option
 }
